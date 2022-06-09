@@ -1,0 +1,6 @@
+HTML:
+
+Necessário entender sobre a estrutura em si do HTML, entender
+sobre a hierarquia de tags pais e filhos para poder modificar
+os arquivos utilizar classes e ID quando necessário para
+modificações no CSS e JS.
