@@ -1,5 +1,6 @@
-# Desafio de Projeto sobre Git/GitHub da DIO
-Repositório criado para o Desafio de Projeto.
+# Conteúdo de Estudo da DIO Santender Developer FullStack 2022
 
-## Links Úteis
-[Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
+#### anotações pendentes aos módulos de estudo do curso
+
+- Introdução a criação de websites com HTML5 e CSS3
+- Introdução ao Git e GitHub
